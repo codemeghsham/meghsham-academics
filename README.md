@@ -1,16 +1,10 @@
 # Bachelor’s in Computer Engineering
 
-Institute :
+Institute : Shri Chhatrapati Shivajiraje College of Engineering, Dhangawadi, Bhor Dist. Pune
 
-Shri Chhatrapati Shivajiraje College of Engineering, Dhangawadi, Bhor Dist. Pune
+University : Savitribai Phule Pune University, Pune
 
-University : 
-
-Savitribai Phule Pune University, Pune
-
-Course Duration : 
-
-3 Year Course(Direct Second Year Entry) 2019-2022
+Course Duration : 3 Year Course(Direct Second Year Entry) 2019-2022
 
 | Course Year | Semester | SGPA |
 | --- | --- | --- |
@@ -20,17 +14,11 @@ Course Duration :
 
 # Diploma in Computer Engineering
 
-Institute :
+Institute : M.D. Jadhav Institute of Tachnology, Bhose, Miraj Dist. Sangli.
 
-M.D. Jadhav Institute of Tachnology, Bhose, Miraj Dist. Sangli.
+University : Maharashtra State Board of Technical Education , Mumbai
 
-University : 
-
-Maharashtra State Board of Technical Education , Mumbai
-
-Course Duration : 
-
-2 Year Course(Direct Second Year Entry) 2015-2019
+Course Duration : 2 Year Course(Direct Second Year Entry) 2015-2019
 
 | Course Year | Semester | SGPA |
 | --- | --- | --- |
@@ -41,32 +29,18 @@ Course Duration :
 
 # Higher Secondary School Certificate (12th)
 
-Course : 
+Course : Bifocal Science Course in Computer Science with Physics, Chemistry and Maths
 
-Bifocal Science Course in Computer Science with Physics, Chemistry and Maths
+Institute : Navnirman College of Arts, Commerce and Science, Mirajole Dist. Ratnagiri.
 
-Institute :
+University : Maharashtra State *Board* of Secondary & Higher Secondary Education , Konkan Division
 
-Navnirman College of Arts, Commerce and Science, Mirajole Dist. Ratnagiri.
-
-University : 
-
-Maharashtra State *Board* of Secondary & Higher Secondary Education , Konkan Division
-
-Grades : 
-
-Successfully passed the HSC examination with a grade of II indicating a performance of 49.23 percent.
+Grades : Successfully passed the HSC examination with a grade of II indicating a performance of 49.23 percent.
 
 # Secondary School Certificate (10th)
 
-Institute :
+Institute : Navnirman College of Arts, Commerce and Science, Mirajole Dist. Ratnagiri.
 
-Navnirman College of Arts, Commerce and Science, Mirajole Dist. Ratnagiri.
+University : Maharashtra State *Board* of Secondary & Higher Secondary Education , Konkan Division
 
-University : 
-
-Maharashtra State *Board* of Secondary & Higher Secondary Education , Konkan Division
-
-Grades : 
-
-Successfully passed the HSC examination with a grade of Disticntion indicating a performance of 76.00 percent.
+Grades : Successfully passed the HSC examination with a grade of Disticntion indicating a performance of 76.00 percent.
