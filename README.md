@@ -39,6 +39,8 @@ Grades : Successfully passed the HSC examination with a grade of II indicating a
 
 # Secondary School Certificate (10th)
 
+Course :Semi Engish Medium with Science and Maths
+
 Institute : Navnirman College of Arts, Commerce and Science, Mirajole Dist. Ratnagiri.
 
 Board : Maharashtra State *Board* of Secondary & Higher Secondary Education , Konkan Division
