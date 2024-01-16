@@ -2,15 +2,15 @@
 
 # Bachelor’s in Computer Engineering
 
-**Institute :**
+Institute :
 
 Shri Chhatrapati Shivajiraje College of Engineering, Dhangawadi, Bhor Dist. Pune
 
-**University : **
+University : 
 
 Savitribai Phule Pune University, Pune
 
-**Course Duration : **
+Course Duration : 
 
 3 Year Course(Direct Second Year Entry) 2019-2022
 
@@ -22,15 +22,15 @@ Savitribai Phule Pune University, Pune
 
 # Diploma in Computer Engineering
 
-**Institute :**
+Institute :
 
 M.D. Jadhav Institute of Tachnology, Bhose, Miraj Dist. Sangli.
 
-**University : **
+University : 
 
 Maharashtra State Board of Technical Education , Mumbai
 
-**Course Duration : **
+Course Duration : 
 
 2 Year Course(Direct Second Year Entry) 2015-2019
 
@@ -41,34 +41,34 @@ Maharashtra State Board of Technical Education , Mumbai
 | Third Year | 5th Semester | 62. 88 % |
 |     | 6th Semester | 67. 88 % |
 
-# **Higher Secondary School Certificate (12th)**
+# Higher Secondary School Certificate (12th)
 
-**Course : **
+Course : 
 
 Bifocal Science Course in Computer Science with Physics, Chemistry and Maths
 
-**Institute :**
+Institute :
 
 Navnirman College of Arts, Commerce and Science, Mirajole Dist. Ratnagiri.
 
-**University : **
+University : 
 
-Maharashtra State ***Board*** of Secondary & Higher Secondary Education , Konkan Division
+Maharashtra State *Board* of Secondary & Higher Secondary Education , Konkan Division
 
-**Grades : **
+Grades : 
 
 Successfully passed the HSC examination with a grade of II indicating a performance of 49.23 percent.
 
-# **Secondary School Certificate (10th)**
+# Secondary School Certificate (10th)
 
-**Institute :**
+Institute :
 
 Navnirman College of Arts, Commerce and Science, Mirajole Dist. Ratnagiri.
 
-**University : **
+University : 
 
-Maharashtra State ***Board*** of Secondary & Higher Secondary Education , Konkan Division
+Maharashtra State *Board* of Secondary & Higher Secondary Education , Konkan Division
 
-**Grades : **
+Grades : 
 
 Successfully passed the HSC examination with a grade of Disticntion indicating a performance of 76.00 percent.
