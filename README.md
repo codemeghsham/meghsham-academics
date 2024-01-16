@@ -16,7 +16,7 @@ Course Duration : 3 Year Course(Direct Second Year Entry) 2019-2022
 
 Institute : M.D. Jadhav Institute of Tachnology, Bhose, Miraj Dist. Sangli.
 
-University : Maharashtra State Board of Technical Education , Mumbai
+Board : Maharashtra State Board of Technical Education , Mumbai
 
 Course Duration : 2 Year Course(Direct Second Year Entry) 2015-2019
 
@@ -33,7 +33,7 @@ Course : Bifocal Science Course in Computer Science with Physics, Chemistry and 
 
 Institute : Navnirman College of Arts, Commerce and Science, Mirajole Dist. Ratnagiri.
 
-University : Maharashtra State *Board* of Secondary & Higher Secondary Education , Konkan Division
+Board : Maharashtra State *Board* of Secondary & Higher Secondary Education , Konkan Division
 
 Grades : Successfully passed the HSC examination with a grade of II indicating a performance of 49.23 percent.
 
@@ -41,6 +41,6 @@ Grades : Successfully passed the HSC examination with a grade of II indicating a
 
 Institute : Navnirman College of Arts, Commerce and Science, Mirajole Dist. Ratnagiri.
 
-University : Maharashtra State *Board* of Secondary & Higher Secondary Education , Konkan Division
+Board : Maharashtra State *Board* of Secondary & Higher Secondary Education , Konkan Division
 
 Grades : Successfully passed the HSC examination with a grade of Disticntion indicating a performance of 76.00 percent.
