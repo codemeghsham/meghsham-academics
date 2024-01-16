@@ -1,5 +1,3 @@
-# Untitled
-
 # Bachelor’s in Computer Engineering
 
 Institute :
